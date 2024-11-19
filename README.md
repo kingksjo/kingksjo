@@ -10,7 +10,9 @@ I'm looking to collaborate on Data Analysis projects and building BI strategies.
 
 ---
 How to reach me [X/Twitter](https://x.com/king_ksjo)
+
 Pronouns: He/Him
+
 Fun Fact: I love Travel a Pop Culture
 
 <!--
