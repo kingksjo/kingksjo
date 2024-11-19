@@ -1,6 +1,4 @@
-##👋 Hi, I'm Kamiye
-
-
+👋 Hi, I'm Kamiye
 ---
 ### I'm intrested in **Cloud Computing and Big Data** | **Data Analysis** | **Python Development** | **Blockchain Technology/Web 3** | **Business Intelligence**
 ---
