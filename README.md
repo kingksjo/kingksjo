@@ -1,6 +1,6 @@
 ##👋 Hi, I'm Kamiye
 ---
-#### I'm intrested in **Cloud Computing and Big Data** | **Data Analysis** | **Python Development** | **Blockchain Technology/Web 3** | **Business Intelligence**
+### I'm intrested in **Cloud Computing and Big Data** | **Data Analysis** | **Python Development** | **Blockchain Technology/Web 3** | **Business Intelligence**
 ---
 I'm currently working on Data Analysis with Python and other tools like **Excel** and **Tableau**.
 
