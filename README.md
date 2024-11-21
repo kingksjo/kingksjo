@@ -13,7 +13,7 @@ How to reach me [X/Twitter](https://x.com/king_ksjo)
 
 Pronouns: He/Him
 
-Fun Fact: I love Travel a Pop Culture
+Fun Fact: I love Travel and Pop Culture
 
 <!--
 **kingksjo/kingksjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
