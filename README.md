@@ -1,12 +1,12 @@
 👋 Hi, I'm Kamiye
 ---
-### I'm intrested in **Cloud Computing and Big Data** | **Data Analysis** | **Python Development** | **Blockchain Technology/Web 3** | **Business Intelligence**
+### I'm intrested in **Cloud Computing and Big Data** | **Data Science** | **Python Development** | **AI** | **Blockchain Technology/Web 3** | **Business Intelligence** 
 ---
-I'm currently working on Data Analysis with Python and other tools like **Excel** and **Tableau**.
+I'm currently working on Data Science with **Python** and other tools like **Excel** and **Tableau**.
 
-I'm currently learning **Data Analysis** and **Big Data Analytics**.
+I'm currently learning **Data Science** and **Big Data Analytics**. I'm also gaining experience with building Chat bots in Telegram.
 
-I'm looking to collaborate on Data Analysis projects and building BI strategies.
+I'm looking to collaborate on Data Science projects and building BI strategies.
 
 ---
 How to reach me [X/Twitter](https://x.com/king_ksjo)
