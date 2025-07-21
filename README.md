@@ -2,11 +2,15 @@
 ---
 ### I'm intrested in **Cloud Computing and Big Data** | **Data Science** | **Python Development** | **AI** | **Blockchain Technology/Web 3** | **Business Intelligence** 
 ---
-I'm currently working on Data Science with **Python** and other tools like **Excel** and **Tableau**.
+I'm currently working on Data Science and ML projects using **Python**.
 
-I'm currently learning **Data Science** and **Big Data Analytics**. I'm also gaining experience with building Chat bots in Telegram.
+I analyze data in the Product Industry domain with tools like **Excel** and **Tableau**
 
-I'm looking to collaborate on Data Science projects and building BI strategies.
+I also work on Gen AI projects with a variety of LLMs like Gemini, Mistral, and Gemma.
+
+I'm currently learning **Blockchain Data Analysis** and **Big Data Analytics**. 
+
+I'm looking to collaborate on Data Science projects and building BI strategies for Products and Businesses.
 
 ---
 How to reach me [X/Twitter](https://x.com/king_ksjo)
